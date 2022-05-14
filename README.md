@@ -1,8 +1,7 @@
 # Challenger-Data-Science ALURA
 
 
-PROJETO - CHURN DE CLIENTES
-Analise de churn de clientes usando dados de uma operadora ficiticia - ALURA Voz
+Análise área de vendas usando dados de uma operadora fictícia - ALURA Voz
 
 Semana 1 - Preparação dos dados
 Semana 2 - 'Em contrução'🛠

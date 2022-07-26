@@ -9,5 +9,5 @@ Semana 1 - Preparação dos dados
 
 Semana 2 - Explorando os dados 
 
-Semana 3 e 4 - 🛠'Em contrução'🛠
+Semana 3 e 4 - Machine Learning
 
